@@ -38,3 +38,9 @@
 | drm_sql_usr  | string  | 32         | Username to connect to the DB                |
 | drm_sql_pw   | string  | 64         | Password to connect to the DB                |
 | drm_sql_db   | string  | 32         | DB Name                                      |
+
+## Author & Contributors
+ROYAL; Find me on Royal Community Server: discord.gg/aBmn9Mn
+
+## License
+This Repository is protected by the GNU General Public License V3.0.
